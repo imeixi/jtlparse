@@ -5,7 +5,6 @@ import com.atlantbh.jmeter.plugins.jtlparser.model.jtl.ThreadGroup;
 import com.atlantbh.jmeter.plugins.jtlparser.model.junit.TestCase;
 import com.atlantbh.jmeter.plugins.jtlparser.model.junit.TestStep;
 import com.atlantbh.jmeter.plugins.jtlparser.model.junit.TestSuite;
-import com.sun.javadoc.Doc;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
